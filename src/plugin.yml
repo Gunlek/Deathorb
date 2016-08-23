@@ -1,0 +1,7 @@
+main: com.simpleduino.deathorb.DeathorbPlugin
+author: Gunlek
+version: 1.0
+name: Deathorb
+commands:
+  do:
+    description: Access all deathorb commands
